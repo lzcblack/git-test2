@@ -9,5 +9,6 @@ public class Gittest {
         System.out.println ("hellomastertest");
         System.out.println ("hello hot-fix");
         System.out.println ("hello push");
+        System.out.println ("hello pull test");
     }
 }
